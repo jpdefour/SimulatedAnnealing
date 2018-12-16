@@ -1,0 +1,16 @@
+c:\users\johnd\source\repos\SimulatedAnnealingHomework\SimulatedAnnealingHomework\bin\Debug\SimulatedAnnealingHomework.exe.config
+c:\users\johnd\source\repos\SimulatedAnnealingHomework\SimulatedAnnealingHomework\bin\Debug\SimulatedAnnealingHomework.exe
+c:\users\johnd\source\repos\SimulatedAnnealingHomework\SimulatedAnnealingHomework\bin\Debug\SimulatedAnnealingHomework.pdb
+c:\users\johnd\source\repos\SimulatedAnnealingHomework\SimulatedAnnealingHomework\obj\Debug\SimulatedAnnealingHomework.csprojAssemblyReference.cache
+c:\users\johnd\source\repos\SimulatedAnnealingHomework\SimulatedAnnealingHomework\obj\Debug\SimulatedAnnealingHomework.csproj.CoreCompileInputs.cache
+c:\users\johnd\source\repos\SimulatedAnnealingHomework\SimulatedAnnealingHomework\obj\Debug\SimulatedAnnealingHomework.exe
+c:\users\johnd\source\repos\SimulatedAnnealingHomework\SimulatedAnnealingHomework\obj\Debug\SimulatedAnnealingHomework.pdb
+C:\Users\johnd\source\repos\SimulatedAnnealingHomework - Copy\SimulatedAnnealingHomework\bin\Debug\SimulatedAnnealingProgram.cs
+C:\Users\johnd\source\repos\SimulatedAnnealingHomework - Copy\SimulatedAnnealingHomework\bin\Debug\SimulatedAnnealing.cs
+C:\Users\johnd\source\repos\SimulatedAnnealingHomework - Copy\SimulatedAnnealingHomework\bin\Debug\SimulatedAnnealingHomework.exe.config
+C:\Users\johnd\source\repos\SimulatedAnnealingHomework - Copy\SimulatedAnnealingHomework\bin\Debug\SimulatedAnnealingHomework.exe
+C:\Users\johnd\source\repos\SimulatedAnnealingHomework - Copy\SimulatedAnnealingHomework\bin\Debug\SimulatedAnnealingHomework.pdb
+C:\Users\johnd\source\repos\SimulatedAnnealingHomework - Copy\SimulatedAnnealingHomework\obj\Debug\SimulatedAnnealingHomework.csprojAssemblyReference.cache
+C:\Users\johnd\source\repos\SimulatedAnnealingHomework - Copy\SimulatedAnnealingHomework\obj\Debug\SimulatedAnnealingHomework.csproj.CoreCompileInputs.cache
+C:\Users\johnd\source\repos\SimulatedAnnealingHomework - Copy\SimulatedAnnealingHomework\obj\Debug\SimulatedAnnealingHomework.exe
+C:\Users\johnd\source\repos\SimulatedAnnealingHomework - Copy\SimulatedAnnealingHomework\obj\Debug\SimulatedAnnealingHomework.pdb
